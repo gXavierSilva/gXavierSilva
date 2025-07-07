@@ -4,18 +4,10 @@
 <p>description</p>
 
 <h1>About Me</h1>
-<table align=center style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <p>Tal tal tal...</p>
-      <p>Tal tal tal...</p>
-      <p>Tal tal tal...</p>
-    </td>
-    <td style="border: none;">
-      <img src="https://github.com/gXavierSilva/gXavierSilva/blob/main/1a11201ccdc76f03d5e0ec2826a7bec9.jpg?raw=true" height="100">
-    </td>
-  </tr>
-</table>
+<p>Tal tal tal...</p>
+<p>Tal tal tal...</p>
+<p>Tal tal tal...</p>
+<img src="https://github.com/gXavierSilva/gXavierSilva/blob/main/1a11201ccdc76f03d5e0ec2826a7bec9.jpg?raw=true" height="100">
 
 <p>Reach Me on</p>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">

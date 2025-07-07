@@ -4,20 +4,24 @@
 <p>description</p>
 
 <h1>About Me</h1>
-<div display=flex flex-direction=row>
-  <div>
-    <p>Tal tal tal...</p>
-    <p>Tal tal tal...</p>
-    <p>Tal tal tal...</p>
-  </div>
-  <img height=100 src="https://github.com/gXavierSilva/gXavierSilva/blob/main/1a11201ccdc76f03d5e0ec2826a7bec9.jpg?raw=true">
-</div>
+<table align=center style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <p>Tal tal tal...</p>
+      <p>Tal tal tal...</p>
+      <p>Tal tal tal...</p>
+    </td>
+    <td style="border: none;">
+      <img src="https://github.com/gXavierSilva/gXavierSilva/blob/main/1a11201ccdc76f03d5e0ec2826a7bec9.jpg?raw=true" height="100">
+    </td>
+  </tr>
+</table>
 
 <p>Reach Me on</p>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 
 <h1>Languages</h1>
-<div align=center display=flex flex-direction=row gap=500>
+<div align=center display=flex flex-direction=row>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -25,7 +29,7 @@
 </div>
 
 <h1>Tech Stack</h1>
-<div align=center display=flex flex-direction=row gap=500>
+<div align=center display=flex flex-direction=row">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">

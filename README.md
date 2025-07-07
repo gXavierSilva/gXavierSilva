@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+<img src="https://github.com/gXavierSilva/gXavierSilva/blob/main/1a11201ccdc76f03d5e0ec2826a7bec9.jpg?raw=true">
 
 <h1 align=center>Hi! I'm Gabriel Xavier</h1>
 <p align=center>Web Dev</p>

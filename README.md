@@ -1,21 +1,55 @@
 <img src="https://github.com/gXavierSilva/gXavierSilva/blob/main/1a11201ccdc76f03d5e0ec2826a7bec9.jpg?raw=true">
 
-<h1 align=center>Hi! I'm Gabriel Xavier</h1>
-<p align=center>Web Dev</p>
+<h1 align=center>Hi 👋 I'm Gabriel Xavier</h1>
+<p>description</p>
 
+<h1>About Me</h1>
+<div display=flex flex-direction=row>
+  <div>
+    <p>Tal tal tal...</p>
+    <p>Tal tal tal...</p>
+    <p>Tal tal tal...</p>
+  </div>
+  <img height=100 src="https://github.com/gXavierSilva/gXavierSilva/blob/main/1a11201ccdc76f03d5e0ec2826a7bec9.jpg?raw=true">
+</div>
+
+<p>Reach Me on</p>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 
-<a href="https://github.com/gXavierSilva/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gXavierSilva&show_icons=true&theme=tokyonight&locale=pt-br" />
-</a>
+<h1>Languages</h1>
+<div align=center display=flex flex-direction=row gap=500>
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+</div>
 
-<a href="https://github.com/gXavierSilva/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gXavierSilva&repo=PyGameStudyProject&show_owner=true" />
-</a>
+<h1>Tech Stack</h1>
+<div align=center display=flex flex-direction=row gap=500>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+</div>
 
-<a href="https://github.com/gXavierSilva/PyGameStudyProject">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gXavierSilva&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align=center display=flex flex-direction=column>
+  <a href="https://github.com/gXavierSilva/github-readme-stats">
+    <img height=50 src="https://github-readme-stats.vercel.app/api?username=gXavierSilva&show_icons=true&theme=tokyonight&locale=pt-br" />
+  </a>
+  
+  <a href="https://github.com/gXavierSilva/github-readme-stats">
+    <img height=50 src="https://github-readme-stats.vercel.app/api/pin/?username=gXavierSilva&repo=PyGameStudyProject&show_owner=true" />
+  </a>
+  
+  <a href="https://github.com/gXavierSilva/PyGameStudyProject">
+    <img height="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gXavierSilva&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+
+<div align=center>
+  <img height=300 src="https://github.com/gXavierSilva/gXavierSilva/blob/main/1a11201ccdc76f03d5e0ec2826a7bec9.jpg?raw=true">
+</div>
 
 <!--
 <a href="https://github.com/gXavierSilva/PyGameStudyProject">

@@ -4,12 +4,14 @@
 <p>🌟 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a ante porta, cursus ante a, malesuada nibh. Duis lacinia ligula consectetur, luctus tortor nec, consectetur lorem. Mauris mattis pharetra ultricies. Pellentesque porta, ligula at sollicitudin vestibulum, diam risus pretium nibh, a gravida orci odio eu velit. Nunc facilisis arcu augue, sed aliquam felis gravida nec. Fusce suscipit lacus sit amet tellus porta, nec aliquet tortor dignissim. Fusce malesuada, quam sit amet euismod auctor, nibh leo commodo leo, eget dapibus diam eros ut purus. Donec vehicula diam vel nisl eleifend, a tincidunt ligula ornare. Mauris aliquam lectus mauris, in pulvinar nunc semper sed.</p>
 
 <h1>👤 About Me</h1>
-<img height="100" src="https://github.com/gXavierSilva/gXavierSilva/blob/main/1a11201ccdc76f03d5e0ec2826a7bec9.jpg?raw=true">
-<p>🌟 Tal tal tal... <br> 🌟 Tal tal tal... <br> 🌟 Tal tal tal... <br> 🌟 Tal tal tal... <br> 🌟 Tal tal tal...</p>
+<img align=right width=180 src="https://github.com/gXavierSilva/gXavierSilva/blob/main/72d28a007481fa71037910a84f6182c4.jpg?raw=true">
+<p>🌟 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a ante porta, cursus ante a, malesuada nibh. <br> 🌟 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a ante porta, cursus ante a, malesuada nibh. <br> 🌟 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a ante porta, cursus ante a, malesuada nibh. <br> 🌟 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a ante porta, cursus ante a, malesuada nibh. <br> 🌟 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a ante porta, cursus ante a, malesuada nibh.</p>
 
-<p>🌟 Reach Me on</p>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<div align=center display=flex flex-direction=row>
+  <p>🌟 Reach Me on</p>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</div>
 
 <h1>📚 Languages</h1>
 <div align=center display=flex flex-direction=row>

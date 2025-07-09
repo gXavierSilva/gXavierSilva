@@ -4,7 +4,7 @@
 <p>🌟 I'm a developer at the beginning of my career, with focus on Web Dev, but who also develops some things beyond that.</p>
 
 <h1>👤 About Me</h1>
-<img align=right width=250 src="https://github.com/gXavierSilva/gXavierSilva/blob/main/72d28a007481fa71037910a84f6182c4.jpg?raw=true">
+<img align=right width=250 src="https://github.com/gXavierSilva/gXavierSilva/blob/main/7358b88c168f696d8912e708cc183559.jpg?raw=true">
 <p>🌟 I always use programming to solve everyday problems.</p>
 <p>👨‍💻 Currently, I focus on SaaS web development.</p>
 <p>🕹️ I develop games unpretentiously using Unity Engine and C#.</p>

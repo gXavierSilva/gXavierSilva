@@ -4,7 +4,7 @@
 <p>🌟 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a ante porta, cursus ante a, malesuada nibh. Duis lacinia ligula consectetur, luctus tortor nec, consectetur lorem. Mauris mattis pharetra ultricies. Pellentesque porta, ligula at sollicitudin vestibulum, diam risus pretium nibh, a gravida orci odio eu velit. Nunc facilisis arcu augue, sed aliquam felis gravida nec. Fusce suscipit lacus sit amet tellus porta, nec aliquet tortor dignissim. Fusce malesuada, quam sit amet euismod auctor, nibh leo commodo leo, eget dapibus diam eros ut purus. Donec vehicula diam vel nisl eleifend, a tincidunt ligula ornare. Mauris aliquam lectus mauris, in pulvinar nunc semper sed.</p>
 
 <h1>👤 About Me</h1>
-<img align=right width=180 src="https://github.com/gXavierSilva/gXavierSilva/blob/main/72d28a007481fa71037910a84f6182c4.jpg?raw=true">
+<img align=right width=230 src="https://github.com/gXavierSilva/gXavierSilva/blob/main/72d28a007481fa71037910a84f6182c4.jpg?raw=true">
 <p>🌟 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a ante porta, cursus ante a, malesuada nibh. <br> 🌟 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a ante porta, cursus ante a, malesuada nibh. <br> 🌟 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a ante porta, cursus ante a, malesuada nibh. <br> 🌟 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a ante porta, cursus ante a, malesuada nibh. <br> 🌟 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a ante porta, cursus ante a, malesuada nibh.</p>
 
 <div align=center display=flex flex-direction=row>

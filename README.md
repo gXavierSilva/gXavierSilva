@@ -1,11 +1,16 @@
 <img src="https://github.com/gXavierSilva/gXavierSilva/blob/main/1a11201ccdc76f03d5e0ec2826a7bec9.jpg?raw=true">
 
 <h1 align=center>Hi 👋 I'm Gabriel Xavier</h1>
-<p>🌟 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a ante porta, cursus ante a, malesuada nibh. Duis lacinia ligula consectetur, luctus tortor nec, consectetur lorem. Mauris mattis pharetra ultricies. Pellentesque porta, ligula at sollicitudin vestibulum, diam risus pretium nibh, a gravida orci odio eu velit. Nunc facilisis arcu augue, sed aliquam felis gravida nec. Fusce suscipit lacus sit amet tellus porta, nec aliquet tortor dignissim. Fusce malesuada, quam sit amet euismod auctor, nibh leo commodo leo, eget dapibus diam eros ut purus. Donec vehicula diam vel nisl eleifend, a tincidunt ligula ornare. Mauris aliquam lectus mauris, in pulvinar nunc semper sed.</p>
+<p>🌟 I'm a developer at the beginning of my career, with focus on Web Dev, but who also develops some things beyond that.</p>
 
 <h1>👤 About Me</h1>
 <img align=right width=250 src="https://github.com/gXavierSilva/gXavierSilva/blob/main/72d28a007481fa71037910a84f6182c4.jpg?raw=true">
-<p>🌟 I always use programming to solve everyday problems. <br> 🌟 Currently, I focus on SaaS web development. <br> 🌟 I develop games unpretentiously using Unity Engine and C#. <br> 🌟 I'm always looking to improve my projects, focusing on optimization. <br> 🌟 Part of my portfolio is made up of automation and system integrations. <br> 🌟 Programming serves me as therapy.</p>
+<p>🌟 I always use programming to solve everyday problems.</p>
+<p>🌟 Currently, I focus on SaaS web development.</p>
+<p>🌟 I develop games unpretentiously using Unity Engine and C#.</p>
+<p>🌟 I'm always looking to improve my projects, focusing on optimization.</p>
+<p>🌟 Part of my portfolio is made up of automation and system integrations.</p>
+<p>🌟 Programming serves me as therapy.</p>
 
 <div align=center display=flex flex-direction=row>
   <p>🌟 Reach Me on</p>

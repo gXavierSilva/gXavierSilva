@@ -6,25 +6,21 @@
 <h1>👤 About Me</h1>
 <img align=right width=250 src="https://github.com/gXavierSilva/gXavierSilva/blob/main/72d28a007481fa71037910a84f6182c4.jpg?raw=true">
 <p>🌟 I always use programming to solve everyday problems.</p>
-<p>🌟 Currently, I focus on SaaS web development.</p>
-<p>🌟 I develop games unpretentiously using Unity Engine and C#.</p>
-<p>🌟 I'm always looking to improve my projects, focusing on optimization.</p>
-<p>🌟 Part of my portfolio is made up of automation and system integrations.</p>
-<p>🌟 Programming serves me as therapy.</p>
+<p>👨‍💻 Currently, I focus on SaaS web development.</p>
+<p>🕹️ I develop games unpretentiously using Unity Engine and C#.</p>
+<p>📈 I'm always looking to improve my projects, focusing on optimization.</p>
+<p>🤖 Part of my portfolio is made up of automation and system integrations.</p>
+<p>🍃 Programming serves me as therapy.</p>
 
 <div align=center display=flex flex-direction=row>
   <p>🌟 Reach Me on</p>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img href="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img href="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
-<h1>📚 Languages</h1>
+<h1>📚 Technologies I've used</h1>
 <div align=center display=flex flex-direction=row>
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <!-- 
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  --!>
-  
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />

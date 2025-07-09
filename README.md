@@ -1,4 +1,4 @@
-<img src="https://github.com/gXavierSilva/gXavierSilva/blob/main/1a11201ccdc76f03d5e0ec2826a7bec9.jpg?raw=true">
+<img src="https://github.com/gXavierSilva/gXavierSilva/blob/main/1945f738630ce7f148b81586d783347e.jpg?raw=true">
 
 <h1 align=center>Hi 👋 I'm Gabriel Xavier</h1>
 <p>🌟 I'm a developer at the beginning of my career, with focus on Web Dev, but who also develops some things beyond that.</p>

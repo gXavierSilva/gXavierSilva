@@ -71,8 +71,8 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gXavierSilva&layout=compact&langs_count=8&card_width=320" />
   </a>
   
-  <a href="https://github.com/gXavierSilva/PyGameStudyProject">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=gXavierSilva&repo=PyGameStudyProject&show_owner=true" />
+  <a href="https://github.com/gXavierSilva/clinica">
+    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=gXavierSilva&repo=clinica&show_owner=true" />
   </a>
 </div>
 

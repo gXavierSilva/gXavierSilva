@@ -79,7 +79,7 @@
 <hr>
 
 <div align=center>
-  <img src="https://github.com/gXavierSilva/gXavierSilva/blob/main/hand.jpg?raw=true">
+  <img src="https://github.com/gXavierSilva/gXavierSilva/blob/main/da240de0c8ffb77ada6f399512a4ef72.jpg?raw=true">
 </div>
 
 <!--
